@@ -4,8 +4,7 @@ link> https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_
 
 Minha solução:
 
-![Desktop](https://user-images.githubusercontent.com/7409421/149431795-9b4d145a-d752-4a37-a11c-ccb3644e4d5d.png)
-
+![Desktop](https://user-images.githubusercontent.com/7409421/150622728-c9f9bb74-cf07-4fea-b6cc-7da70ae50f26.png)
 
 ## Bem-vindo! - Welcome! 👋
 
